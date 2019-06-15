@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_bloc_example/utils/blocs/sayi_bloc.dart';
-import 'package:flutter_bloc_example/utils/events/sayi_event.dart';
 import 'package:flutter_bloc_example/utils/states/sayi_state.dart';
 
 void main() => runApp(MyApp());
